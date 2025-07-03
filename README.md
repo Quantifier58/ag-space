@@ -50,36 +50,6 @@ A sleek, responsive, and interactive portfolio website built with Next.js, TypeS
 - **Prettier** - Code formatting
 - **Git** - Version control
 
-## 🚀 Getting Started
-
-## 📁 Project Structure
-
-\`\`\`
-├── app/
-│   ├── globals.css          # Global styles and Tailwind config
-│   ├── layout.tsx           # Root layout component
-│   └── page.tsx             # Main page component
-├── components/
-│   ├── ui/                  # shadcn/ui components
-│   ├── about.tsx            # About section
-│   ├── achievements.tsx     # Achievements & profiles
-│   ├── beyond-web.tsx       # Personal interests
-│   ├── contact.tsx          # Contact section
-│   ├── custom-avatar.tsx    # Interactive avatar
-│   ├── header.tsx           # Navigation header
-│   ├── hero.tsx             # Hero section
-│   ├── loading-screen.tsx   # Custom loading animation
-│   ├── other-projects.tsx   # Projects grid
-│   ├── social-sidebar.tsx   # Left social links
-│   ├── email-sidebar.tsx    # Right email link
-│   ├── technical-skills.tsx # Skills showcase
-│   └── work.tsx             # Featured projects
-├── public/
-├── tailwind.config.ts       # Tailwind configuration
-├── next.config.mjs          # Next.js configuration
-└── package.json             # Dependencies and scripts
-\`\`\`
-
 
 ## 📱 Responsive Design
 
@@ -93,5 +63,5 @@ The portfolio is fully responsive and tested on:
 
 ⭐ **Star this repository if you found it helpful!**
 
-Built with ❤️ by Anirudh Gautam
+Built with ❤️ by Anirudh Gautam.\
 Took theme inspiration from Brittany Chiang.
